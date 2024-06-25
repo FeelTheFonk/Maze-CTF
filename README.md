@@ -930,6 +930,37 @@ Vulnerability        Fix released
    found
 ```
 
+---
+
+<div align="center">
+
+# CTF en Binôme
+
+## RÈGLES :
+
+1. **Choisissez votre partenaire**
+2. **Partagez votre projet** (avec guide)
+3. **Préparez un CHRONO**
+4. **Prenez des NOTES**
+5. **RTFM** :white_check_mark:
+6. **LLM** :no_entry_sign: (NO GPT, NO Claude)
+7. **WEB** :white_check_mark:
+
+![CTF](https://img.shields.io/badge/CTF-Competition-blue)
+![Binôme](https://img.shields.io/badge/Binôme-Teamwork-green)
+![RTFM](https://img.shields.io/badge/RTFM-Required-red)
+
+### Notes Supplémentaires
+
+- **RTFM** signifie "Read The Fine Manual" et indique que la lecture de la documentation est autorisée.
+- **LLM** (Large Language Models) tels que GPT et Claude ne sont pas autorisés.
+- L'utilisation du **WEB** est permise pour rechercher des informations complémentaires.
+
+Assurez-vous de suivre ces règles pour une participation efficace et conforme aux attentes du CTF.
+
+</div>
+
+---
 
 ## ❓ FAQ
 
