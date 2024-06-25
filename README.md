@@ -935,7 +935,6 @@ Vulnerability        Fix released
 <div align="center">
 
 # CTF en Binôme
-
 ## RÈGLES :
 
 1. **Choisissez votre partenaire**
