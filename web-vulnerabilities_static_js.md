@@ -1,6 +1,6 @@
 # Vulnérabilités JavaScript pour CTF
 
-Ce guide présente des vulnérabilités web JavaScript courantes, parfaites pour un CTF hébergé sur GitHub Pages. Chaque section contient le code vulnérable, l'explication détaillée et la méthode d'exploitation.
+---
 
 ## 1. Injection JavaScript via localStorage
 
